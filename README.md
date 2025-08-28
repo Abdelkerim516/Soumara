@@ -15,13 +15,13 @@ Soumara est un restaurant libanais situé à Moundou, à côté du rond-point de
 
 ## Technologies utilisées
 
--HTML5 – Structure du site
+- HTML5 – Structure du site
 
--CSS3 – Mise en forme personnalisée
+- CSS3 – Mise en forme personnalisée
 
--Bootstrap 5 – Framework responsive et design moderne
+- Bootstrap 5 – Framework responsive et design moderne
 
-J-avaScript – Interactions et animations
+- J-avaScript – Interactions et animations
 
 
 ## Installation / Lancement
