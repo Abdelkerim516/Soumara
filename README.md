@@ -6,11 +6,22 @@
 ## Description
 Soumara est un restaurant libanais situé à Moundou, à côté du rond-point de la Femme. Le restaurant propose une expérience culinaire conviviale et chaleureuse avec des plats savoureux et authentiques.
 
-Le site vitrine permet de :  
-- Découvrir l’ambiance du restaurant et sa carte.  
-- Visualiser des photos attractives des plats et de l’espace.  
-- Accéder facilement aux informations de contact et localisation.  
-- Naviguer sur mobile et desktop grâce à un design responsive et moderne.
+## Fonctionnalités
+- Design responsive (compatible mobile, tablette et ordinateur)  
+- Navigation fluide avec un menu clair  
+- Présentation du menu et des plats du restaurant  
+- Galerie d’images des spécialités culinaires  
+- Mise en avant des informations de contact  
+
+## Technologies utilisées
+
+-HTML5 – Structure du site
+
+-CSS3 – Mise en forme personnalisée
+
+-Bootstrap 5 – Framework responsive et design moderne
+
+J-avaScript – Interactions et animations
 
 
 ## Installation / Lancement
