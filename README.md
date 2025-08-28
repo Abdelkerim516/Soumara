@@ -16,4 +16,4 @@ Le site vitrine permet de :
 ## Installation / Lancement
 1. Cloner le projet :  
 ```bash
-git clone https://github.com/votre-utilisateur/soumara.git
+git clone https://github.com/Abdelkerim516/Soumara.git
